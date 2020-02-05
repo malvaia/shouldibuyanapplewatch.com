@@ -15,7 +15,7 @@
 		<h1 style="font-size:5em;">NO</h1>
 		<span>For once in your life, respect yourself.</span>
 	<?php } ?>
-		<p style="line-height:1.5em;font-size:0.75em;margin-top:3em">If you have too much money, you can doate it to usefull organizations like:<br>
+		<p style="line-height:1.5em;font-size:0.75em;margin-top:3em">If you have too much money, you can donate it to usefull organizations like:<br>
 			<a href="http://otter.org" target="_blank">The International Otter Survival Fund</a><br>
 			<a href="http://www.worldwildlife.org/" target="_blank">The World Wildlife Fund</a><br>
 		</p>
